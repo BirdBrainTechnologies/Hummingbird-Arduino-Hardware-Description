@@ -33,7 +33,7 @@ hbduo.build.usb_product="Hummingbird Duo"
 hbduo.build.usb_manufacturer="BIRDBRAIN TECHNOLOGIES LLC"
 hbduo.build.board=AVR_HUMMINGBIRDDUO
 hbduo.build.core=arduino:arduino
-hbduo.build.variant=hbduo
+hbduo.build.variant=arduino:leonardo
 hbduo.build.extra_flags={build.usb_flags}
 
 
